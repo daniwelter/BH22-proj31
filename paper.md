@@ -10,51 +10,51 @@ authors:
   - name: Danielle Welter
     orcid: 0000-0003-1058-2668
     affiliation: 1
+  - name:  Rafael Andrade Buono
+    orcid: 0000-0002-6675-3836
+    affiliation: 2
   - name: Marina Popleteeva 
     orcid: 0000-0002-8409-6147
     affiliation: 1
   - name: Nazeefa Fatima 
     orcid: 0000-0001-7791-4984 
-    affiliation: 2
+    affiliation: 3
   - name:  Laura Portell Silva
     orcid: 0000-0003-0390-3208
-    affiliation: 3
+    affiliation: 4
   - name:  Tooba Abbassi-Daloii
     orcid: 0000-0002-4904-3269
-    affiliation: 4
+    affiliation: 5
   - name: Philippe Rocca-Serra
     orcid: 0000-0001-9853-5668
-    affiliation: 5
+    affiliation: 6
   - name:  Bert Droesbeke
     orcid: 0000-0003-0522-5674
-    affiliation: 6
-  - name:  Rafael Andrade Buono
-    orcid: 0000-0002-6675-3836
-    affiliation: 6
- affiliations:
+    affiliation: 2
+affiliations:
   - name: Luxembourg Center for Systems Biomedicine (LCSB), University of Luxembourg, Esch-sur-Alzette, Luxembourg
     index: 1
-  - name: Centre for Bioinformatics, University of Oslo, ELIXIR Norway
-    index: 2
-  - name: Barcelona Supercomputing Center (BSC), ELIXIR Spain
-    index: 3
-  - name: Department of Bioinformatics (BiGCaT), NUTRIM, FHML, Maastricht University, ELIXIR Netherlands
-    index: 4
-  - name: University of Oxford e-Research Centre, University of Oxford, ELIXIR UK
-    index: 5
   - name: VIB Data core, ELIXIR Belgium
+    index: 2
+  - name: Centre for Bioinformatics, University of Oslo, ELIXIR Norway
+    index: 3
+  - name: Barcelona Supercomputing Center (BSC), ELIXIR Spain
+    index: 4
+  - name: Department of Bioinformatics (BiGCaT), NUTRIM, FHML, Maastricht University, ELIXIR Netherlands
+    index: 5
+  - name: University of Oxford e-Research Centre, University of Oxford, ELIXIR UK
     index: 6
 date: 11 November 2022
+cito-bibliography: paper.bib
 event: BH22EU
-biohackathon_name: 'BioHackathon Europe 2022'
-biohackathon_url:   'https://biohackathon-europe.org/index.html'
-biohackathon_location: 'Paris, France, 2022'
+biohackathon_name: "BioHackathon Europe 2022"
+biohackathon_url:   "https://biohackathon-europe.org/index.html"
+biohackathon_location: "Paris, France, 2022"
 group: Project 31
-<!--URL to project git repo --- should contain paper.md-->
 git_url: https://github.com/elixir-europe/biohackathon-projects-2022/tree/main/projects/31/bhxiv
-<!--This is the short authors description that is used at the bottom of the generated paper.-->
-authors_short: Danielle Welter \emph{et al.}
+authors_short: Danielle Welter & Rafael Buono \emph{et al.}
 ---
+
 
 # Introduction
 
