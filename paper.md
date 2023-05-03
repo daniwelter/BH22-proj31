@@ -89,7 +89,7 @@ As second possible improvement, we explored the idea of parsing metadata informa
 
 # ELIXIR Research Data Management Ecosystem
 
-A major focus of this project was to generate an improved illustration of the wider ELIXIR Research Data Management (RDM) Ecosystem, its components and how they fit together. While each of the components of the RDM Ecosystem - the RDMkit, the FAIR Cookbook, FAIRsharing, the Data Stewardship Wizard (DSW), Bio.tools and TeSS - are all fairly well-documented in their own right, users from outside of ELIXIR or new to research data management often find it difficult to find all the resources or identify which ones best serve their needs. In order to address this gap, we started the process of creating a single unified presentation page to the ELIXIR RDM Ecosystem, highlighting all its components. In particular, we identified a series of representative journeys that users might take to navigate between the resources in order to address common RDM problems. 
+A major focus of this project was to generate an improved illustration of the wider ELIXIR Research Data Management (RDM) Ecosystem, its components and how they fit together. While each of the components of the RDM Ecosystem - the [RDMkit](https://rdmkit.elixir-europe.org/), the [FAIR Cookbook](https://faircookbook.elixir-europe.org/), [FAIRsharing](https://fairsharing.org/), the [Data Stewardship Wizard (DSW)](https://ds-wizard.org/), [Bio.tools](https://bio.tools/) and [TeSS](https://tess.elixir-europe.org/) - are all fairly well-documented in their own right, users from outside of ELIXIR or new to research data management often find it difficult to find all the resources or identify which ones best serve their needs. In order to address this gap, we started the process of creating a single unified presentation page to the ELIXIR RDM Ecosystem, highlighting all its components. In particular, we identified a series of representative journeys that users might take to navigate between the resources in order to address common RDM problems. 
 
 ## User journeys
 
@@ -154,7 +154,14 @@ In addition to the review of the two core resources, RDMkit and FAIR Cookbook, w
 
 ## Content gaps
 
-In addition to completing the cross-references between existing pages, we also reviewed the resources for content gaps where no FAIR Cookbook recipes exist to address problems highlighted in an RDMkit Task page, or a problem addressed in a FAIR Cookbook recipe that is not covered in the RDMkit. In total, we identified four potential new recipes for the FAIR Cookbook to address problems described in the RDMkit. Other gaps that were initially identified were deemed to be outside the remit of the FAIR Cookbook, such as problems pertaining to data management planning and project coordination, which are not directly relevant to the FAIR principles. 
+In addition to completing the cross-references between existing pages, we also reviewed the resources for content gaps where no FAIR Cookbook recipes exist to address problems highlighted in an RDMkit Task page, or a problem addressed in a FAIR Cookbook recipe that is not covered in the RDMkit. In total, we identified four potential new recipes for the FAIR Cookbook to address problems described in the RDMkit:
+
+- [Generic image deposition guidance](https://github.com/FAIRplus/the-fair-cookbook/issues/552): while there is an ["Applied Example" recipe](https://faircookbook.elixir-europe.org/content/recipes/applied-examples/eubopen-hcs-bioimage.html) in the FAIR Cookbook describing the deposition of imaging data to the [BioImage Archive](https://www.ebi.ac.uk/bioimage-archive/), a more generic step-by-step guide is not available. This could be linked to the RDMkit's domain page on [Bioimaging data](https://rdmkit.elixir-europe.org/bioimaging_data).
+- [Evidence & Conclusion Ontology](https://github.com/FAIRplus/the-fair-cookbook/issues/554): practical guidance on using the [Evidence & Conclusion Ontology](https://evidenceontology.org/) could support the RDMkit's [Existing Data task page](https://rdmkit.elixir-europe.org/existing_data#how-can-you-reuse-existing-data).
+- [Metadata and data quality assessment](https://github.com/FAIRplus/the-fair-cookbook/issues/555): the lack of practical guidance on how to assess the quality of metadata and data is a major barrier to data reuse, and a Cookbook recipe to address this would be of great use.
+- [Metadata for computational analysis](https://github.com/FAIRplus/the-fair-cookbook/issues/556):
+
+Other gaps that were initially identified were deemed to be outside the remit of the FAIR Cookbook, such as problems pertaining to data management planning and project coordination, which are not directly relevant to the FAIR principles. 
 
   
   
