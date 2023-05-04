@@ -13,37 +13,48 @@ authors:
   - name:  Rafael Andrade Buono
     orcid: 0000-0002-6675-3836
     affiliation: 2
-  - name: Marina Popleteeva 
-    orcid: 0000-0002-8409-6147
-    affiliation: 1
-  - name: Nazeefa Fatima 
-    orcid: 0000-0001-7791-4984 
-    affiliation: 3
-  - name:  Laura Portell Silva
-    orcid: 0000-0003-0390-3208
-    affiliation: 4
   - name:  Tooba Abbassi-Daloii
     orcid: 0000-0002-4904-3269
+    affiliation: 3
+  - name: Pinar Alper
+    orcid: 0000-0002-2224-0780
+    affiliation: 1
+  - name:  Munazah Andrabi
+    orcid: 0000-0002-7718-5109
+    affiliation: 4
+  - name: Federico Bianchini
+   	 orcid: 0000-0002-9016-4820
     affiliation: 5
-  - name: Philippe Rocca-Serra
-    orcid: 0000-0001-9853-5668
-    affiliation: 6
   - name:  Bert Droesbeke
     orcid: 0000-0003-0522-5674
     affiliation: 2
+  - name: Nazeefa Fatima 
+    orcid: 0000-0001-7791-4984 
+    affiliation: 5
+  - name: Marina Popleteeva 
+    orcid: 0000-0002-8409-6147
+    affiliation: 1
+  - name:  Laura Portell-Silva
+    orcid: 0000-0003-0390-3208
+    affiliation: 6
+  - name: Philippe Rocca-Serra
+    orcid: 0000-0001-9853-5668
+    affiliation: 7
 affiliations:
   - name: Luxembourg Center for Systems Biomedicine (LCSB), University of Luxembourg, Esch-sur-Alzette, Luxembourg
     index: 1
   - name: VIB Data core, ELIXIR Belgium
     index: 2
-  - name: Centre for Bioinformatics, University of Oslo, ELIXIR Norway
-    index: 3
-  - name: Barcelona Supercomputing Center (BSC), ELIXIR Spain
-    index: 4
   - name: Department of Bioinformatics (BiGCaT), NUTRIM, FHML, Maastricht University, ELIXIR Netherlands
+    index: 3
+  - name: University of Manchester, ELIXIR UK
+    index: 4
+  - name: Centre for Bioinformatics, University of Oslo, ELIXIR Norway
     index: 5
-  - name: University of Oxford e-Research Centre, University of Oxford, ELIXIR UK
+  - name: Barcelona Supercomputing Center (BSC), ELIXIR Spain
     index: 6
+  - name: University of Oxford e-Research Centre, University of Oxford, ELIXIR UK
+    index: 7
 date: 11 November 2022
 cito-bibliography: paper.bib
 event: BH22EU
@@ -159,7 +170,7 @@ In addition to completing the cross-references between existing pages, we also r
 - [Generic image deposition guidance](https://github.com/FAIRplus/the-fair-cookbook/issues/552): while there is an ["Applied Example" recipe](https://faircookbook.elixir-europe.org/content/recipes/applied-examples/eubopen-hcs-bioimage.html) in the FAIR Cookbook describing the deposition of imaging data to the [BioImage Archive](https://www.ebi.ac.uk/bioimage-archive/), a more generic step-by-step guide is not available. This could be linked to the RDMkit's domain page on [Bioimaging data](https://rdmkit.elixir-europe.org/bioimaging_data).
 - [Evidence & Conclusion Ontology](https://github.com/FAIRplus/the-fair-cookbook/issues/554): practical guidance on using the [Evidence & Conclusion Ontology](https://evidenceontology.org/) could support the RDMkit's [Existing Data task page](https://rdmkit.elixir-europe.org/existing_data#how-can-you-reuse-existing-data).
 - [Metadata and data quality assessment](https://github.com/FAIRplus/the-fair-cookbook/issues/555): the lack of practical guidance on how to assess the quality of metadata and data is a major barrier to data reuse, and a Cookbook recipe to address this would be of great use.
-- [Metadata for computational analysis](https://github.com/FAIRplus/the-fair-cookbook/issues/556):
+- [Metadata for computational analysis](https://github.com/FAIRplus/the-fair-cookbook/issues/556): the Cookbook currently lacks a recipe detailing what metadata must be provided to maximise the reproducibility of computational analyses. 
 
 Other gaps that were initially identified were deemed to be outside the remit of the FAIR Cookbook, such as problems pertaining to data management planning and project coordination, which are not directly relevant to the FAIR principles. 
 
